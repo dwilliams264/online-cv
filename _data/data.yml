@@ -121,7 +121,9 @@ recommendations:
   list:
     - person: ITG People Team
       email: people@itg.co.uk
-      role: ITG People Team
+      phone:
+      role:
+      recommendation:
 
 skills:
   title: Skills &amp; Proficiency
@@ -142,4 +144,5 @@ skills:
   - name: JavaScript
     level: 15%
 
-footer:
+footer: >
+  Designed with <i class="fas fa-heart"></i>
