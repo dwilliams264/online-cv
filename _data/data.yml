@@ -55,9 +55,17 @@ experiences:
     time: Aug 2021 - Present
     company: Gymshark
     details: |
-      Update this...
-        - Bullet point
-        - Bullet point
+      Working within the QA Automation team, my role involves supporting product squads in adopting effective, 
+      sustainable automation practices. I collaborate across teams to design and maintain scalable test solutions, 
+      ensuring automation is well integrated into development workflows. The focus is on improving test reliability, 
+      reducing manual effort, and contributing to faster, more confident releases.
+        - Developed and maintained test automation frameworks used across multiple squads.
+        - Improved framework scalability and reliability, reducing flakiness and test execution time.
+        - Provided training and guidance to help teams incorporate automation into their day-to-day development processes.
+        - Supported the integration of test automation into CI/CD pipelines and encouraged adoption of modern tooling and practices.
+        - Analysed key metrics to identify coverage gaps and promote earlier validation through shift-left testing.
+        - Worked closely with squads to build autonomy in writing and maintaining their own automated tests.
+        - Collaborated with QAs, BAs, and developers to align on quality goals, test scope, and release readiness.
   - role: QA Automator
     time: May 2019 - Aug 2021
     company: Inspired Thinking Group (ITG)
