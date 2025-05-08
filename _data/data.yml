@@ -107,7 +107,7 @@ certifications:
   - name: Professional Scrum Master I (PSM I)
     start: May 2018
     organization: Scrum.org
-    credentialname: Scrum.org
+    credentialname: Certificate
     credentialurl: www.scrum.org/user/345733
   - name: ISTQB Certified Agile Tester
     start: Mar 2017
@@ -120,7 +120,6 @@ skills:
   title: Skills &amp; Proficiency
   toolset:
   - name: Automation Testing
-    level: 0%
   - name: Java
     level: 75%
   - name: TestNG
@@ -131,19 +130,16 @@ skills:
     level: 20%
   - name: JavaScript
     level: 15%
-  - name: Continuous Integration and Continuous Deployment (CI/CD)
-    level: 0%
+  - name: CI/CD
   - name: CodeFresh
     level: 80%
   - name: Jenkins
     level: 60%
-  - name: Cloud-based testing services
-    level: 0%
+  - name: Cloud testing
   - name: Browserstack
     level: 85%
   - name: LambdaTest
     level: 35%
   - name: Test Reporting
-    level: 0%
   - name: Allure
     level: 75%
