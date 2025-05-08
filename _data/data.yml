@@ -130,9 +130,6 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Ruby on Rails
-    level: 85%
-
   - name: Java
     level: 75%
 
