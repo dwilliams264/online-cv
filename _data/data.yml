@@ -116,15 +116,6 @@ certifications:
     start: Mar 2016
     organization: ISTQB
 
-recommendations:
-  title: Recommendations
-  list:
-    - person: ITG People Team
-      email: people@itg.co.uk
-      phone:
-      role:
-      recommendation: |
-
 skills:
   title: Skills &amp; Proficiency
 
@@ -143,6 +134,3 @@ skills:
 
   - name: JavaScript
     level: 15%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i>
