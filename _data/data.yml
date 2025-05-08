@@ -104,33 +104,41 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: "Professional Scrum Master I (PSM I)"
+  - name: Professional Scrum Master I (PSM I)
     start: May 2018
     organization: Scrum.org
     credentialname: Scrum.org
     credentialurl: www.scrum.org/user/345733
-  - name: "ISTQB Certified Agile Tester"
+  - name: ISTQB Certified Agile Tester
     start: Mar 2017
     organization: ISTQB
-  - name: "ISTQB Certified Tester Foundation Level"
+  - name: ISTQB Certified Tester Foundation Level
     start: Mar 2016
     organization: ISTQB
 
 skills:
   title: Skills &amp; Proficiency
-
   toolset:
   - name: Java
     level: 75%
-
   - name: TestNG
     level: 70%
-
   - name: Cucumber
     level: 65%
-
   - name: Cypress
     level: 20%
-
   - name: JavaScript
     level: 15%
+
+    title: Test
+    toolset:
+      - name: Java
+        level: 75%
+      - name: TestNG
+        level: 70%
+      - name: Cucumber
+        level: 65%
+      - name: Cypress
+        level: 20%
+      - name: JavaScript
+        level: 15%
