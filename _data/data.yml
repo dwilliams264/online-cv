@@ -3,36 +3,21 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar: left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in the main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Daniel Williams
+  tagline: Senior QA Automation Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: daniel-williams92@live.co.uk
+  phone: 07889091395
+  linkedin: dwilliams264
+  github: dwilliams264
+  pdf: https://dwilliams264.github.io/online-cv/print
 
   languages:
     title: Languages
@@ -40,247 +25,139 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Running
       link:
-
-
-    - item: Snowboarding
+    - item: Football
       link:
-
-
-    - item: Cooking
+    - item: Gaming
       link:
-
 
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced QA Automation Engineer with a strong manual QA background. 
+    ISTQB certified at Foundation Level additionally with the Foundation Level Agile Tester extension.
+    Practical experience working within Scrum / Agile while being PSM 1 qualified. 
+    Current experience is the creation and enablement of the automated testing capacity within the various web and app digital products at Gymshark.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: BSc (Hons) Computer Science
+    university: University of Derby
+    time: 2010 - 2014
 
 experiences:
-  title: Experiences
+  title: Work Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior QA Automation Engineer
+    time: Aug 2021 - Present
+    company: Gymshark
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Update this...
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: QA Automator
+    time: May 2019 - Aug 2021
+    company: Inspired Thinking Group (ITG)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Working within a Scrum team producing 2-week sprints for the JLR (Jaguar Land Rover) Configurator project.
+        - Development of automation tests across multiple sprint teams within our testing frameworks, using Java, Selenium WebDriver and JUnit 4 / 5.
+        - Responsible for the over-seeing of all test automation and test suites across the business.
+        - Participating in code reviews for feature branches.
+        - Involved in the creation, management and delivery of training sessions which we offered to manual QA’s / BE developers in order to get exposure to automation testing.
+        - Ongoing 1:1 mentoring sessions with the aim of furthering the personal development of fellow QA's in their experience and knowledge with automation testing.
+        - Assisting management in the interviewing, technical test review and onboarding for new QA Automator’s.
+  - role: QA & Automation Tester
+    time: Sept 2018 - May 2019
+    company: Inspired Thinking Group (ITG)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Working within a Scrum team producing 2-week sprints for the JLR (Jaguar Land Rover) CDX project.
+        - Participating within all Scrum ceremonies including Stand-ups, Sprint Reviews, Sprint Retrospectives and Sprint Planning.
+        - Estimating story points for upcoming sprint work, collaborating with team members and advising from a QA perspective both from a Manual and an Automation point of view.
+        - Producing test scripts for sprint work.
+        - Management of bugs raised within JIRA for both in-sprint and bugs raised outside of sprint work.
+        - Led product demonstrations on multiple occasions as part of our Sprint Review meetings in which we present our latest work in front of the full team and for review from our product owner.
+        - Responsible for development of automation tests as part of the CDX team, working to provide automation coverage of in-sprint work as well general maintenance work.
+        - Using both Java and Selenium WebDriver to ensure that components and features meet the specified acceptance criteria and can be tested as part of a scheduled automation build within Jenkins.
+        - Code reviewing merge requests of branches being added into the automation suite.
+        - Responsible for monitoring the test summary output for the automation suite, ensuring full coverage and maintenance is upheld.
+        - Involved in providing coding styling guidelines for the automation suite and responsible for ensuring that these guidelines are being met by all developers collaborating within the automation suite.
+        - Ensuring that all components are accessibility and can be used efficiently by impaired users.
+        - Helped within on-boarding of new QA & Automation testers to the team.
+  - role: Software Tester
+    time: Oct 2016 - Sept 2018
+    company: Risual Ltd
+    details: |
+        - Leading testing activities on both risual internal and external bespoke applications developed using the latest Microsoft Technologies.
+        - Experience of testing solutions developed using a range of technologies – C#, UWP, ASP.Net, WPF, Xamarin, RESTful Services, WCF Services, Android.
+        - Responsible for the planning, creation and execution of all testing artefacts contained within Visual Studio Team Services (VSTS).
+        - Management of bugs raised within our defect management tool (VSTS) to ensure problems and customer feedback are addressed within a timely manner.
+        - Involved in the creation and implementation of testing and requirement gathering processes while working within an agile environment.
+        - Conducted App Dev Daily Stand-ups when required.
+        - Occasionally presented to our Solutions Steering Group updating members on current work load, expected projects and outstanding impediments.
+        - Involved within the creation and management of various CI / CD pipelines used within the development team.
+        - Co-ordinating testing effort and reporting to key members on complex projects.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: "Professional Scrum Master I (PSM I)"
+    start: May 2018
+    organization: Scrum.org
+    credentialurl: https://www.scrum.org/user/345733
+  - name: "70-496: Administering Visual Studio Team Foundation Server"
+    start: Oct 2017
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
+    credentialurl: https://www.youracclaim.com/badges/e18e6806-99d0-4241-8f93-1fc655c172d5/public_url
+  - name: "70-498: Delivering Continuous Value With Visual Studio Application Lifecycle Management"
+    start: Sept 2017
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    credentialurl: https://www.youracclaim.com/badges/f90b98db-7193-4d27-a7d9-74a8e30ef759/public_url
+  - name: "77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation"
+    start: Sept 2017
+    organization: Microsoft
+    credentialurl: https://www.youracclaim.com/badges/72e2fb85-b1a5-45ef-8577-9f14721ae3bb/public_url
+  - name: "77-731: Outlook 2016: Core Communication, Collaboration and Email Skills"
+    start: Sept 2017
+    organization: Microsoft
+    credentialurl: https://www.youracclaim.com/badges/d43ee7a4-daec-466a-a05d-3326ae42d189/public_url
+  - name: "70-497: Software Testing with Visual Studio"
+    start: Aug 2017
+    organization: Microsoft
+    credentialurl: https://www.youracclaim.com/badges/79c0d273-4e0c-4d59-b6c1-aaa415b50ba4/public_url
+  - name: "77-725: Word 2016: Core Document Creation, Collaboration and Communication"
+    start: Aug 2017
+    organization: Microsoft
+    credentialurl: https://www.youracclaim.com/badges/9c1edf8f-0e8d-4c09-93ab-48c0a13b3c2b/public_url
+  - name: ISTQB Certified Agile Tester
+    start: Mar 2017
+    organization: ISTQB® - International Software Testing Qualifications Board
+  - name: ISTQB Certified Tester Foundation Level
+    start: Mar 2016
+    organization: ISTQB® - International Software Testing Qualifications Board
 
 recommendations:
-  title: Recommendations
+  title: References
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - person: ITG People Team
+    email: people@itg.co.uk
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Selenium
     level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Java
+    level: 75%
+  - name: TestNG
+    level: 70%
+  - name: Cucumber
+    level: 65%
+  - name: Cypress
+    level: 20%
+  - name: JavaScript
+    level: 15%
