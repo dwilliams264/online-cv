@@ -108,7 +108,7 @@ certifications:
     start: May 2018
     organization: Scrum.org
     credentialname: Scrum.org
-    credentialurl: https://www.scrum.org/user/345733
+    credentialurl: www.scrum.org/user/345733
   - name: "ISTQB Certified Agile Tester"
     start: Mar 2017
     organization: ISTQB
@@ -119,12 +119,9 @@ certifications:
 recommendations:
   title: Recommendations
   list:
-    - person: Yareli Perez
-      email: perezyareli@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        Alan Doe is a super employee!
+    - person: ITG People Team
+      email: people@itg.co.uk
+      role: ITG People Team
 
 skills:
   title: Skills &amp; Proficiency
@@ -145,5 +142,4 @@ skills:
   - name: JavaScript
     level: 15%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
