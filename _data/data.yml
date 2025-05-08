@@ -132,32 +132,44 @@ certifications:
     start: Aug 2017
     organization: Microsoft
     credentialurl: https://www.youracclaim.com/badges/9c1edf8f-0e8d-4c09-93ab-48c0a13b3c2b/public_url
-  - name: ISTQB Certified Agile Tester
+  - name: "ISTQB Certified Agile Tester"
     start: Mar 2017
-    organization: ISTQB® - International Software Testing Qualifications Board
-  - name: ISTQB Certified Tester Foundation Level
+    organization: ISTQB
+  - name: "ISTQB Certified Tester Foundation Level"
     start: Mar 2016
-    organization: ISTQB® - International Software Testing Qualifications Board
+    organization: ISTQB
 
 recommendations:
-  title: References
+  title: Recommendations
   list:
-  - person: ITG People Team
-    email: people@itg.co.uk
+    - person: Yareli Perez
+      email: perezyareli@example.com
+      phone: 012 345 6789
+      role: General Director at example.com
+      recommendation: |
+        Alan Doe is a super employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Selenium
+  - name: Ruby on Rails
     level: 85%
+
   - name: Java
     level: 75%
+
   - name: TestNG
     level: 70%
+
   - name: Cucumber
     level: 65%
+
   - name: Cypress
     level: 20%
+
   - name: JavaScript
     level: 15%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
