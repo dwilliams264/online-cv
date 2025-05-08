@@ -107,31 +107,8 @@ certifications:
   - name: "Professional Scrum Master I (PSM I)"
     start: May 2018
     organization: Scrum.org
+    credentialname: Scrum.org
     credentialurl: https://www.scrum.org/user/345733
-  - name: "70-496: Administering Visual Studio Team Foundation Server"
-    start: Oct 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/e18e6806-99d0-4241-8f93-1fc655c172d5/public_url
-  - name: "70-498: Delivering Continuous Value With Visual Studio Application Lifecycle Management"
-    start: Sept 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/f90b98db-7193-4d27-a7d9-74a8e30ef759/public_url
-  - name: "77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation"
-    start: Sept 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/72e2fb85-b1a5-45ef-8577-9f14721ae3bb/public_url
-  - name: "77-731: Outlook 2016: Core Communication, Collaboration and Email Skills"
-    start: Sept 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/d43ee7a4-daec-466a-a05d-3326ae42d189/public_url
-  - name: "70-497: Software Testing with Visual Studio"
-    start: Aug 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/79c0d273-4e0c-4d59-b6c1-aaa415b50ba4/public_url
-  - name: "77-725: Word 2016: Core Document Creation, Collaboration and Communication"
-    start: Aug 2017
-    organization: Microsoft
-    credentialurl: https://www.youracclaim.com/badges/9c1edf8f-0e8d-4c09-93ab-48c0a13b3c2b/public_url
   - name: "ISTQB Certified Agile Tester"
     start: Mar 2017
     organization: ISTQB
