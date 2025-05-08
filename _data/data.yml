@@ -119,6 +119,8 @@ certifications:
 skills:
   title: Skills &amp; Proficiency
   toolset:
+  - name: Automation Testing
+    level: 0%
   - name: Java
     level: 75%
   - name: TestNG
@@ -129,16 +131,19 @@ skills:
     level: 20%
   - name: JavaScript
     level: 15%
-
-    title: Test
-    toolset:
-      - name: Java
-        level: 75%
-      - name: TestNG
-        level: 70%
-      - name: Cucumber
-        level: 65%
-      - name: Cypress
-        level: 20%
-      - name: JavaScript
-        level: 15%
+  - name: Continuous Integration and Continuous Deployment (CI/CD)
+    level: 0%
+  - name: CodeFresh
+    level: 80%
+  - name: Jenkins
+    level: 60%
+  - name: Cloud-based testing services
+    level: 0%
+  - name: Browserstack
+    level: 85%
+  - name: LambdaTest
+    level: 35%
+  - name: Test Reporting
+    level: 0%
+  - name: Allure
+    level: 75%
