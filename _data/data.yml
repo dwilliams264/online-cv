@@ -37,10 +37,10 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Experienced QA Automation Engineer with a strong manual QA background. 
-    ISTQB certified at Foundation Level additionally with the Foundation Level Agile Tester extension.
-    Practical experience working within Scrum / Agile while being PSM 1 qualified. 
-    Current experience is the creation and enablement of the automated testing capacity within the various web and app digital products at Gymshark.
+    QA Automation Engineer with a strong foundation in manual testing and a focus on building scalable, 
+    maintainable automation in Agile environments. Certified in ISTQB (Foundation & Agile Tester) and PSM I. 
+    Currently supporting multiple squads at Gymshark to embed automation practices, improve test reliability, 
+    and deliver better software, faster.
 education:
   title: Education
   info:
