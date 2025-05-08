@@ -119,6 +119,8 @@ certifications:
 skills:
   title: Skills &amp; Proficiency
   toolset:
+  - name: Selenium
+    level: 90%
   - name: Java
     level: 75%
   - name: TestNG
